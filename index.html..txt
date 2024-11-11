@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Trevor James Tucker</title>
+</head>
+<body>
+    <h1>Welcome to Trevor James Tucker's Website</h1>
+    <p>More content coming soon!</p>
+</body>
+</html>
